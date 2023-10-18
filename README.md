@@ -3,6 +3,4 @@ A game engine for retro styled games, using pygame for audio,  pygameOpenGL for 
 
 Designed to use a minimal amount of outside libs and functions in python, it is focused on using the core functionality of the language to its fullest.
 # Outside Libraries Include:
-  Pygame
-  PygameOpenGL
-  Tkinter
+  Pygame, PygameOpenGL, Tkinter
