@@ -1,0 +1,2 @@
+# 1 Jet per shot, 1 Smash per shot; no standard dx, dy input control. (normal mass)
+# Smash = Gains mass (set amount of frames), small boost in current direction, invincibility to enemies, destroys certain enemies on collision, stuns others.

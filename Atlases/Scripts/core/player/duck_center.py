@@ -1,0 +1,1 @@
+# Dampened dx, dy movement control, with smoothing applied; increased mass for first 2/3rds of Opening shot, also has 2 jets per shot. (normal mass)

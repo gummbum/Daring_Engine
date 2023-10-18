@@ -1,0 +1,2 @@
+# 1 Jet per shot, 1 Vault per shot (disables enemy and hazard collisions for a set amount of frames); no dx, dy input control. (low mass)
+# After collision disables frames, small delayed boost "on landing".
